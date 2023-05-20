@@ -5,3 +5,6 @@
     [Cost] INT NULL, 
     [Color] NVARCHAR(50) NULL
 )
+GO
+INSERT INTO dbo.Product VALUES(1, 'Damodar', 25, 'Blue')
+go
